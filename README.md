@@ -25,6 +25,8 @@ The pipeline enables the generation of:
 
 It can be adapted to match the research aims, including using different marker panels, thresholds, or clustering methods.
 
+For full details of the cell segmentation workflow, see the accompanying [CEll_SEGMENTATION.md](CELL_SEGMENTATION.md) file.
+
 ---
 
 **Note:** If you use or adapt these scripts, please acknowledge this repository in your work.

@@ -1,6 +1,6 @@
 # Cell Segmentation Workflow
 
-The QPTIFF files used in this project was processed using open-source image analysis software **QuPath (v0.6.0)**, which incorporates deep-learning models to improve segmentation accuracy. Although a total of five segmentation models were assessed during initial testing, only two deep-learning models were ultimately employed for the final segmentation workflow described here. These were:
+The QPTIFF files used in this project were processed using open-source image analysis software **QuPath (v0.6.0)**, which incorporates deep-learning models to improve segmentation accuracy. Although a total of five segmentation models were assessed during initial testing, only two deep-learning models were ultimately employed for the final segmentation workflow described here. These were:
 
 - **StarDist (v0.5.0)**, applied to the glioblastoma (GBM) surgical sample image
 - **InstanSeg (v0.1.2)**, applied to the pancreas (training) surgical sample image
